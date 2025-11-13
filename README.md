@@ -4,7 +4,7 @@ Bu loyiha **Python** tilida yozilgan hisob-faktura generatori bo‘lib, mijozlar
 
 ---
 
-## 🛠 Qanday ishlaydi
+## Qanday ishlaydi
 
 1. Loyiha papkasiga kiring:
 ```bash
@@ -32,3 +32,4 @@ reportlab — PDF fayllarni yaratish uchun
 openpyxl — Excel fayllarni yaratish uchun
 datetime — vaqtni saqlash va formatlash
 pathlib — fayl yo‘llari bilan ishlash
+
